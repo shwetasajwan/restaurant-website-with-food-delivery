@@ -1,9 +1,9 @@
 # restaurant-website-with-food-delivery
 
-Description
+#Description
 A restaurant web application with table booking, online food ordering. this is a responsive restaurant website where you can reserve your seats and have its own food ordering site using HTML, CSS AND JS. Booking of table using PHP and MYSQL.
 
-Functionalities
+#Functionalities
 HTML - provides structure to a webpage and make it accessible to users of the internet through text, visual formatting and search factors.
 
 CSS - is used to style and layout web pages, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.
